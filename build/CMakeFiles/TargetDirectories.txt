@@ -1,0 +1,4 @@
+/home/liusonglei/network_test/build/CMakeFiles/server.dir
+/home/liusonglei/network_test/build/CMakeFiles/client.dir
+/home/liusonglei/network_test/build/CMakeFiles/edit_cache.dir
+/home/liusonglei/network_test/build/CMakeFiles/rebuild_cache.dir
