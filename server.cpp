@@ -7,8 +7,7 @@
 #include<unistd.h>
 #include <iostream>
 #include <arpa/inet.h>
-#include<iostream>
-#include<cctype>
+
 #define PORT 8081
 #define LEN 1024
 int main(int argc,const char *argv[]){
